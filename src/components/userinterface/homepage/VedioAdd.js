@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ProductVid from "../../../assets/product.mp4";
 
-// sedrftghjk
+
 
 export default function VedioAdd() {
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
